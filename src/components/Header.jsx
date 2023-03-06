@@ -1,5 +1,4 @@
 import React from "react";
-import { list } from "../IconData";
 export default function () {
   return (
     <>

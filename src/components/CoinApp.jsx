@@ -1,8 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Grid from "@mui/material/Grid";
 import Table from "react-bootstrap/Table";
-
-import iconData from "../IconData";
 
 export default function CoinApp() {
   const [coinData, setCoinData] = useState([]);
